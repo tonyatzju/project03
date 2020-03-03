@@ -1,4 +1,4 @@
-package com.atguigu.team.service;
+package team.service;
 
 public class TeamException extends Exception {
 	static final long serialVersionUID = -33875169124229948L;

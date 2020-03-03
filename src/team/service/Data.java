@@ -1,4 +1,4 @@
-package com.atguigu.team.service;
+package team.service;
 
 
 public class Data {

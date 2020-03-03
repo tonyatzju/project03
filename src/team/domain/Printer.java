@@ -1,4 +1,4 @@
-package com.atguigu.team.domain;
+package team.domain;
 
 public class Printer implements Equipment{
 	private String name;//名称

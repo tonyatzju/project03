@@ -1,8 +1,8 @@
-package com.atguigu.team.service;
+package team.service;
 
-import com.atguigu.team.domain.*;
+import static team.service.Data.*;
 
-import static com.atguigu.team.service.Data.*;
+import team.domain.*;
 
 public class NameListService {
 	private Employee[] employees;

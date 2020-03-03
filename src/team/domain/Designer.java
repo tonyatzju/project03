@@ -1,4 +1,4 @@
-package com.atguigu.team.domain;
+package team.domain;
 
 public class Designer extends Programmer{
     private double bonus;

@@ -1,4 +1,4 @@
-package com.atguigu.team.service;
+package team.service;
 public class Status {
 	private final String NAME;
 	private Status(String name) {

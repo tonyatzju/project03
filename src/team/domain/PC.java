@@ -1,4 +1,4 @@
-package com.atguigu.team.domain;
+package team.domain;
 
 public class PC implements Equipment{
 

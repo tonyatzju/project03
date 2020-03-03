@@ -1,10 +1,10 @@
-package com.atguigu.team.junit;
+package team.junit;
 
 import org.junit.Test;
 
-import com.atguigu.team.domain.Employee;
-import com.atguigu.team.service.NameListService;
-import com.atguigu.team.service.TeamException;
+import team.domain.Employee;
+import team.service.NameListService;
+import team.service.TeamException;
 
 public class NameListServiceTest {
 	

@@ -1,6 +1,6 @@
-package com.atguigu.team.service;
+package team.service;
 
-import com.atguigu.team.domain.*;
+import team.domain.*;
 
 
 public class TeamService {

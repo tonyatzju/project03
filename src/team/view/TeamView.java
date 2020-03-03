@@ -1,7 +1,7 @@
-package com.atguigu.team.view;
+package team.view;
 
-import com.atguigu.team.domain.*;
-import com.atguigu.team.service.*;
+import team.domain.*;
+import team.service.*;
 
 public class TeamView {
 	private NameListService listSvc = new NameListService();
